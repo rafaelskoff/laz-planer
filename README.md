@@ -1,6 +1,6 @@
 # 🎵 ÖBV-LAZ Planungstool
 
-Professionelles Zeitplanungs-Tool für Musikprüfungen des **Musikbezirks Bruck an der Mur** (Blasmusik Steiermark).
+Professionelles Zeitplanungs-Tool für Musikprüfungen des **Blasmusikbezirkes Bruck an der Mur** (Blasmusikverband Steiermark).
 
 **Version:** 6.0 Final  
 **Entwickelt für:** Blasmusikbezirksverband Bruck a. d. Mur
